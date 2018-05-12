@@ -1,4 +1,5 @@
 _repo: Laughing-Last_46458
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Pauli, E. Corinne
@@ -6,9 +7,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43802
 covers:
 - cover_type: archival
-  image_path: 46458/46458-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46458-h/images/cover.jpg
 creator:
   author:
     agent_name: Abbott, Jane
@@ -18,6 +17,8 @@ creator:
     gutenberg_agent_id: '2227'
     url: http://www.gutenberg.org/2009/agents/2227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46458#Laughing-Last
 gutenberg_issued: '2014-07-31'
 gutenberg_type: Text
 identifiers:
